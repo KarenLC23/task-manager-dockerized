@@ -16,21 +16,21 @@ Aplicación web sencilla para gestionar tareas, creada con PHP puro, patrón MVC
 ## 🏗️ Estructura del Proyecto
 
 mi-gestor-tareas/
-├── app/
-│ ├── controllers/
-│ ├── models/
-│ ├── views/
-│ └── core/
-│   └── Route.php
-├── db/
-│ └── init.sql
-├── index.php
-├── .htaccess
-├── .env
-├── .gitignore
-├── Dockerfile
-├── docker-compose.yml
-└── README.md
+- app/
+  - controllers/
+  - models/
+  - views/
+  - core/
+    - Route.php
+- db/
+  - init.sql
+- index.php
+- .htaccess
+- .env
+- .gitignore
+- Dockerfile
+- docker-compose.yml
+- README.md
 
 
 ## ⚙️ Instalación
